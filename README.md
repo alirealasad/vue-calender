@@ -1,5 +1,7 @@
 # my-calender
 
+## this project is inspired from [trananhtuat](https://github.com/trananhtuat/js-calendar)
+
 ## Project setup
 ```
 npm install
